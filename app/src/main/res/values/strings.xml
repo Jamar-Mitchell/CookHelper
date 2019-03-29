@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">CookHelper</string>
+    <string name="mainSearchText">Enter a recipe name</string>
+    <string name="mainButtonSearch"></string>
+    <string name="searchText">Displaying results for: getMessage()</string>
+    <string name="title_activity_help">HelpActivity</string>
+    <string name="action_exit">Exit</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_helpactivity">HelpactivityActivity</string>
+</resources>
